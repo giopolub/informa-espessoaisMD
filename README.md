@@ -1,18 +1,13 @@
-# Informações
+# Informações Pessoais
 
-## _Dados Pessoais_
+## _Apresentação_
+Olá, me chamo Giovanni Poluboiarinov Orlandi, pós graduado em Processo Civil pela Universidade Presbiteriana Mackenzie e atualmente
+estudante do curso de Análise e Desenvolvimento de Sistemas na FIAP.
 
-Giovanni Poluboiarinov Orlandi
-RM: 557986
-FIAP - Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+Busco integração da área de TI com minha formação original, análise de processos, clientes dentre outros.
 
-## _Formação_
+Não possuo conhecimentos prévios na área, com exceção àquilo conquistado pela curiosidade diária por conta própria.
 
-- Técnico em Eletrônica - ETEC Guaracy Silveira - Conclusão em 2012
-- Bacharelado em Direito - Universidade São Judas Tadeu - Conclusão em 2017
-- Pós Graduação em Processo Civil - Universidade Presbiteriana Mackenzie - Conclusão em 2019
-- Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - FIAP - Cursando - Início 2024
+Possuo bastante interesse na área de Data Science bem como a análise de dados e como a utilização deles interfere e pode influenciar o nosso dia a dia.
 
-## _Breve Apresentação_
-
-Estudante de Análise e Desenvolvimento de Sistemas buscando integração com a carreira no Direito. Alto interesse em Data Science, especificamente na análise de dados e como eles interferem e podem vir a intererir no mundo real.
+Você pode entrar em contato comigo através da plataforma do github como também no perfil do Linkedin no giovannipoluboiarinovorlandi.
